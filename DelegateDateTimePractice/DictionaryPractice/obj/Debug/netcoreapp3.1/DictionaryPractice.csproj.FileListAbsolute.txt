@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_01-03-2022_DateTimeDictionaryPractice\DelegateDateTimePractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.genruntimeconfig.cache
